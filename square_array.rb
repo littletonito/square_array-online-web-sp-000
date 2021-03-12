@@ -16,7 +16,7 @@ end
 
 
 
-# This is wrong because ln 21 the character * isnt being interpreted as multiplication. new_numbers is being called AFTER it has been stored
+# wrong because ln 25 the character * isnt being interpreted as multiplication. new_numbers is being called AFTER it has been stored
 
 # def square_array(array)
 #
